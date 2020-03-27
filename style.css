@@ -48,3 +48,8 @@ table, th, td {
     background-color: red;
   }
 }
+@media (max-width: 375px) {
+.page-nav {
+  position: relative;
+}
+}
